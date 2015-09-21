@@ -1,2 +1,31 @@
-# uip-prog3
-Clase de Programación 3
+======================================
+
+Programación de Computadoras III - UIP
+
+======================================
+
+
+
+
+:Autor: <nombre>
+
+:Fecha: <fecha>
+
+:Versión: <version>
+
+
+
+
+<descripcion>
+
+
+
+
+—-------
+
+Licencia
+
+—-------
+
+<licencia>
+
